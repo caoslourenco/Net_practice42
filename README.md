@@ -1,5 +1,6 @@
 # NetPrace Project
-![OIG4 (7)](https://github.com/caoslourenco/Net_practice42/assets/18141491/df3a20fd-3ef4-4875-8ace-f1fb25b03098)
+![OIG3 cGjfb7e6f](https://github.com/caoslourenco/Net_practice42/assets/18141491/7ef3881f-d8b8-4f23-bde5-b835195ff8c2)
+
 
 Welcome to NetPrace, your comprehensive guide to understanding networking essentials and system administration concepts! This project is designed to equip you with fundamental knowledge about IPs, TCP/IP, switches, routers, and more. Whether you're a beginner or looking to deepen your understanding, NetPrace has got you covered. Let's dive in!
 
